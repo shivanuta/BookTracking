@@ -1,0 +1,94 @@
+D:\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.deps.json
+D:\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.runtimeconfig.json
+D:\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.runtimeconfig.dev.json
+D:\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.dll
+D:\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.pdb
+D:\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.Views.dll
+D:\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.Views.pdb
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.csprojAssemblyReference.cache
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.csproj.CoreCompileInputs.cache
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorAssemblyInfo.cache
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorAssemblyInfo.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.AssemblyInfoInputs.cache
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.AssemblyInfo.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.TagHelpers.input.cache
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.TagHelpers.output.cache
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorCoreGenerate.cache
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorTargetAssemblyInfo.cache
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorTargetAssemblyInfo.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.Views.pdb
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.dll
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.pdb
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.csproj.CopyComplete
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Create.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Delete.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Details.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Edit.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Index.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Create.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Delete.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Details.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Edit.g.cshtml.cs
+D:\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.deps.json
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.runtimeconfig.json
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.runtimeconfig.dev.json
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.dll
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.pdb
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.Views.dll
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\bin\Debug\netcoreapp2.2\BookStore.Views.pdb
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.csproj.AssemblyReference.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.AssemblyInfoInputs.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.AssemblyInfo.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorAssemblyInfo.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorAssemblyInfo.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.TagHelpers.input.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.TagHelpers.output.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorCoreGenerate.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Create.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Delete.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Details.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Edit.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\CategoryTypes\Index.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.RazorTargetAssemblyInfo.cs
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.Views.pdb
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.dll
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.pdb
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.genruntimeconfig.cache
+C:\Users\Shiva Rama Krishna\OneDrive\Desktop\BookStore\BookStore\obj\Debug\netcoreapp2.2\BookStore.csproj.CopyComplete
